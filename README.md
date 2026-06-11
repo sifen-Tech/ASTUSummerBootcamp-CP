@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
+| [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -30,4 +31,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
