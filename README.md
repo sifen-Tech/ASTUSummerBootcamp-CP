@@ -18,5 +18,10 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
