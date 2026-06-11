@@ -9,6 +9,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
