@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -25,4 +26,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
