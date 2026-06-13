@@ -11,11 +11,13 @@
 | [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3895-count-digit-appearances](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3895-count-digit-appearances/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3895-count-digit-appearances](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3895-count-digit-appearances/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
