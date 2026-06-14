@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
@@ -27,6 +28,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0014-longest-common-prefix/) | Easy |
 | [0344-reverse-string](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3110-score-of-a-string/) | Easy |
@@ -57,4 +59,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
