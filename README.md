@@ -14,6 +14,7 @@
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -48,6 +49,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -69,6 +71,7 @@
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
