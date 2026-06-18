@@ -33,12 +33,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
 | [0344-reverse-string](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
@@ -111,5 +113,6 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
