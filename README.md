@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
@@ -107,4 +108,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
