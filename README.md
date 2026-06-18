@@ -16,6 +16,7 @@
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -56,6 +57,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Search
@@ -92,6 +94,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Dynamic Programming
@@ -106,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
