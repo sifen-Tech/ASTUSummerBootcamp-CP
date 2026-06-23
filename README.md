@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0463-island-perimeter](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0048-rotate-image/) | Medium |
+| [0463-island-perimeter](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -140,4 +142,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
 <!---LeetCode Topics End-->
