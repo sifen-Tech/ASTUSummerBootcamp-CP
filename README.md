@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -43,6 +44,7 @@
 | [0001-two-sum](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -81,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0048-rotate-image/) | Medium |
 | [0463-island-perimeter](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
@@ -150,4 +153,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
