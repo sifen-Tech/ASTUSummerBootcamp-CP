@@ -47,6 +47,7 @@
 | [0036-valid-sudoku](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0076-minimum-window-substring/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -56,6 +57,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0076-minimum-window-substring/) | Hard |
 | [0344-reverse-string](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -141,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0076-minimum-window-substring/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
