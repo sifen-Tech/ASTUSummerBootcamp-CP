@@ -25,6 +25,7 @@
 | [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -82,6 +83,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0917-reverse-only-letters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0917-reverse-only-letters/) | Easy |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -95,6 +97,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0475-heaters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0475-heaters/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -144,6 +147,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0042-trapping-rain-water/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +159,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0042-trapping-rain-water/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +192,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 <!---LeetCode Topics End-->
