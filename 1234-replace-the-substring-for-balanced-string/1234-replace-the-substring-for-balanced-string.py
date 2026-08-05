@@ -3,14 +3,15 @@ class Solution:
         n = len(s)
         left = 0
         ans = n
-        ctr = Counter(s) 
+        counter = Counter(s) 
         
         for right in range(n):
-            ctr[s[right]] -= 1
+            counter[s[right]] -= 1
+            while left < n and 4*max(counter.values()) <= n:
 
-            while left < n and 4*max(ctr.values()) <= n:
+           
                 ans = min(ans, right-left+1) 
-                ctr[s[left]] += 1 
+                counter[s[left]] += 1 
                 left += 1
 
         return ans
