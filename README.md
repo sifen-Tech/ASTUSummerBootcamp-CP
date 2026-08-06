@@ -20,6 +20,7 @@
 | [0463-island-perimeter](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0463-island-perimeter/) | Easy |
 | [0475-heaters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0475-heaters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0867-transpose-matrix/) | Easy |
@@ -56,6 +57,7 @@
 | [0076-minimum-window-substring](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0076-minimum-window-substring/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
@@ -136,6 +138,7 @@
 | [0455-assign-cookies](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0475-heaters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -156,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0455-assign-cookies/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Monotonic Stack
@@ -170,6 +174,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0076-minimum-window-substring/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -208,4 +213,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 <!---LeetCode Topics End-->
