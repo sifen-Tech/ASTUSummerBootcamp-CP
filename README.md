@@ -34,6 +34,7 @@
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3206-alternating-groups-i](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3206-alternating-groups-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3895-count-digit-appearances](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3895-count-digit-appearances/) | Medium |
 ## Math
@@ -176,6 +177,7 @@
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [3206-alternating-groups-i](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3206-alternating-groups-i/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,4 +204,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/sifen-Tech/ASTUSummerBootcamp-CP/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
